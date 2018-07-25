@@ -1,0 +1,185 @@
+
+.header-landing{ 
+	padding: 15px 0;
+	margin-bottom: 20px; }
+	
+.registration-login-form{
+	border: none;
+}
+.registration-login-form .title{
+	background-color: #01405c;
+	color: #fff;
+}
+	
+	
+.btn-primary{
+	background-color: #05405C;
+}
+.btn-primary:hover{
+	background-color: #148AC5;
+}
+.btn-purple{
+	background-color: #148AC5;
+}
+.btn-purple:hover{
+	background-color: #148AC5;
+}
+.terms_condition{ color:#148AC5; }
+a{ color:#148AC5; }
+.registration-login-form .nav-link.active{ color:#148AC5; }
+.registration-login-form .nav-link.active{ fill: #148AC5; }
+
+.bg-twitch{ background-color:#6441A5; }
+.bg-linkedin{ background-color:#0077B5; }
+
+.a-icon:hover .left-menu-icon
+{ color: #148AC5 !important;
+fill: #148AC5 !important;}
+.a-open-slider:hover .left-menu-icon_slide{
+		color: #148AC5 !important;
+		fill: #148AC5 !important;}
+.left-menu a:hover {
+    color: #515365;
+}
+.left-menu a:hover svg {
+    fill: #148AC5;
+}
+/*
+.btn_control_icon:hover{ background-color:#148AC5 !important; }  */
+.post-control-button .btn-control:hover{ background-color:#148AC5 !important;}
+.olympus-chat{ background-color:#148AC5}
+.dropdown_account:hover span{ color:#148AC5 }
+.blue_bg{ color:#148AC5; }
+.notification_btn{ background-color:#148AC5 !important;}
+a.notification_btn:hover{ background-color:#148AC5 !important;}
+
+.play-video{ background-color:#148AC5CC;}
+.play-video:hover{ background-color:#148AC5;}
+
+
+/*  header section */
+.header{
+	background-color: #113a50;}
+.search-bar.w-search{ 
+	background-color:#0F4968;}
+.search-bar .form-group.with-button button{
+	color: #00B2ED;
+	fill: #00B2ED;
+	background-color: #123345;
+	cursor:pointer;
+}
+.search-bar .form-group.with-button button:hover{
+	color: #fff;
+	fill: #fff;
+	background-color: #123345;
+}
+.notification-list .notification-link{ color:#148AC5; }
+.more-dropdown a{ color:#515365;}
+.more-dropdown a:hover{ color:#148AC5;}
+
+/* Login checkbox */
+
+.checkbox input[type="checkbox"]:checked + .checkbox-material .check{
+	background: #148AC5; }
+
+/* End login checkbox */
+
+.search-friend a{color:#9a9fbf; fill:#9a9fbf;}
+.fixed-sidebar .search-friend a:hover svg {
+    fill: #148AC5;
+	color:#148AC5;
+}
+
+
+.w-action img{
+	width:50%; }
+
+/* side menu */
+
+
+/* 16-FavPagesFeed style */
+
+.play-gif{ background-color: rgb(20, 138, 197); }
+.more-photos::after{ background-color: #148ac5; }
+.w-create-fav-page{ background-color: #01aae2; }
+.page-description .icon { background-color: #05405C; }
+.page-description .icon { fill: #01aae2; }
+.post-add-icon:hover, .post-add-icon:hover span{fill: #148ac5; color: #148ac5; }
+.btn-bg-secondary{ background-color: #113a50; }
+.all-users { background-color: #01aae2; }
+
+/* ####### */
+.bg-primary {
+    background-color: #01AAE2 !important;
+}
+a.bg-primary:focus, a.bg-primary:hover{ background-color: #148ac5 !important; }
+
+/* Account setting page */
+.btn-secondary:hover{ background-color: #1489c3; color:#fff; }
+.togglebutton label input[type=checkbox]:checked + .toggle {
+    background-color: #01AAE2;
+}
+.togglebutton label .toggle, .togglebutton label input[type="checkbox"][disabled] + .toggle{
+	background-color: #05405C; }
+
+/* Account chat message */
+.page-link:focus, .page-link:hover{
+	background-color: #00B1EC;
+    border-color: #00B1EC; }
+
+/* Newsfeed */
+.more_nav_item{ padding: 16px 29px;}
+
+.news-feed-form .nav-link svg{ width: 14px;}
+
+.news-feed-form .nav-link .olymp-status-icon{ width: 17px;}
+
+/* End Newsfeed */
+
+
+@media (max-width: 450px) {
+	.news-feed-form .nav-tabs li:nth-child(4){
+		display: none;
+	} 
+	
+}
+
+
+@media (max-width: 1023px){
+	.registration-login-form {
+    padding-top: 0px; }
+	
+	.registration-login-form .nav-item2{
+		clear: both;
+		display: inline-block;
+		float: left;
+	}
+	.registration-login-form .nav-item1{
+		clear: both;
+		display: inline-block;
+		float:none;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
